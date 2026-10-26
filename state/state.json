@@ -1,5 +1,5 @@
 {
- "offset": 0,
+ "offset": 300271582,
  "paused": false,
  "queue": {
   "866f2a18": {
@@ -309,10 +309,12 @@
    "official_only": false,
    "score": 13,
    "needs_edit": true,
-   "status": "pending",
+   "status": "published",
    "created": 1793017310,
    "until": 0,
-   "preview_msg": 11
+   "preview_msg": 11,
+   "tg_msg": 2,
+   "published_at": 1793017375
   }
  },
  "seen_urls": {
