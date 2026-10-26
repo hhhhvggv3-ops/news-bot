@@ -1,0 +1,22 @@
+[
+  {"name": "Лента.ру", "pub": "lenta", "url": "https://lenta.ru/rss/news", "lang": "ru"},
+  {"name": "РБК", "pub": "rbc", "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss", "lang": "ru"},
+  {"name": "Коммерсантъ", "pub": "kommersant", "url": "https://www.kommersant.ru/RSS/news.xml", "lang": "ru"},
+  {"name": "Интерфакс", "pub": "interfax", "url": "https://www.interfax.ru/rss.asp", "lang": "ru"},
+  {"name": "ТАСС", "pub": "tass", "url": "https://tass.ru/rss/v2.xml", "lang": "ru"},
+  {"name": "РИА Новости", "pub": "ria", "url": "https://ria.ru/export/rss2/archive/index.xml", "lang": "ru"},
+  {"name": "Deutsche Welle", "pub": "dw", "url": "https://rss.dw.com/xml/rss-ru-all", "lang": "ru"},
+  {"name": "N+1", "pub": "nplus1", "url": "https://nplus1.ru/rss", "lang": "ru"},
+  {"name": "Хабр Новости", "pub": "habr", "url": "https://habr.com/ru/rss/news/?fl=ru", "lang": "ru"},
+  {"name": "3DNews", "pub": "3dnews", "url": "https://3dnews.ru/news/rss/", "lang": "ru"},
+  {"name": "iXBT", "pub": "ixbt", "url": "https://www.ixbt.com/export/news.rss", "lang": "ru"},
+  {"name": "NASA", "pub": "nasa", "url": "https://www.nasa.gov/feed/", "lang": "en", "official": true},
+  {"name": "WHO", "pub": "who", "url": "https://www.who.int/rss-feeds/news-english.xml", "lang": "en", "official": true},
+  {"name": "BBC World", "pub": "bbc", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en"},
+  {"name": "BBC Technology", "pub": "bbc", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "lang": "en"},
+  {"name": "BBC Science", "pub": "bbc", "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "lang": "en"},
+  {"name": "The Guardian World", "pub": "guardian", "url": "https://www.theguardian.com/world/rss", "lang": "en"},
+  {"name": "Al Jazeera", "pub": "aljazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "en"},
+  {"name": "Ars Technica", "pub": "ars", "url": "https://feeds.arstechnica.com/arstechnica/index", "lang": "en"},
+  {"name": "The Verge", "pub": "verge", "url": "https://www.theverge.com/rss/index.xml", "lang": "en"}
+]
