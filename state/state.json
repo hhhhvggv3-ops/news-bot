@@ -1,5 +1,5 @@
 {
- "offset": 300271583,
+ "offset": 300271585,
  "paused": false,
  "queue": {
   "866f2a18": {
@@ -253,10 +253,12 @@
    "official_only": false,
    "score": 9,
    "needs_edit": true,
-   "status": "pending",
+   "status": "published",
    "created": 1793015334,
    "until": 0,
-   "preview_msg": 9
+   "preview_msg": 9,
+   "tg_msg": 4,
+   "published_at": 1793017492
   },
   "6b93b8d4": {
    "id": "6b93b8d4",
@@ -1032,7 +1034,5 @@
   "n": 10
  },
  "errors": [],
- "feed_fail": {
-  "Интерфакс": 1
- }
+ "feed_fail": {}
 }
